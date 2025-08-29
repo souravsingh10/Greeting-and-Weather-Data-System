@@ -24,3 +24,5 @@ SmartNode Backend is a Node.js serverless application that provides:
 - Fully tested with Jest
 
 The project follows the **MVC structure** and uses **Serverless framework** for scheduled data fetching.
+
+Video of Working of the Project link:- https://github.com/souravsingh10/Greeting-and-Weather-Data-System/blob/main/greetings-and-weather-data-system_BLGVNJP4.mp4
